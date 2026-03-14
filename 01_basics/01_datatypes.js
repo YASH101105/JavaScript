@@ -16,7 +16,7 @@ console.log(typeof"10")
 console.log(typeof null);
 console.log(typeof undefined);//undefined bcz it is a type
 console.log("yash")
-
+console.log("yash"+" rastogi")
 
 
 
